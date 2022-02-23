@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @MadeAditya02
-- 👀 I’m interested in Web Programming
-- 🌱 I’m currently learning Back End
-
-<!---
-MadeAditya02/MadeAditya02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Made Aditya's card name](https://cardivo.vercel.app/api?name=[I Made Aditya]&description=[Hello i'm Aditya. I'm a 17 years old student who wants to be a Professional Web Developer]&site=[https://madeadiya02.github.io/portfolio]&instagram=[mdadityaa02]&github=[MadeAditya02])
