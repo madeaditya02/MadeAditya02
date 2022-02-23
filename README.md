@@ -1,1 +1,1 @@
-![Made Aditya's card name](https://cardivo.vercel.app/api?name=I Made Aditya&description=Hello i'm Aditya. I'm a 17 years old student who wants to be a Professional Web Developer&site=https://madeadiya02.github.io/portfolio&instagram=mdadityaa02&github=MadeAditya02)
+![Made Aditya's card name](https://cardivo.vercel.app/api?name=I%20Made&20Aditya&description=Hello%20i'm Aditya.%20I'm%20a%2017%20years%20old%20student%20who%20wants%20to%20be%20a%20Professional%20Web%20Developer&site=https://madeadiya02.github.io/portfolio&instagram=mdadityaa02&github=MadeAditya02)
